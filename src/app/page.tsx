@@ -54,7 +54,7 @@ export default function Home() {
           </Button>
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
-              <Button size="sm" variant="outline" className="gap-1">
+              <Button size="sm" variant="outline" className="gap-2">
                 Request
                 <ChevronDown className="size-4" />
               </Button>
